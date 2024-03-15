@@ -1,0 +1,7 @@
+Conveniente para landing pages (Páginas informativas) o Blogs.
+Serán siempre iguales para todos los usuarios.
+.
+Sitios Web Dinámicos (Aplicaciones Web): Actualizan su información con respecto a la interacción del usuario. Dependen de una base de datos, de donde extrae e ingresa información.
+Serán diferentes, dependiendo del usuario que la use.
+
+
