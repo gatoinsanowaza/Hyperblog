@@ -1,7 +1,14 @@
 Conveniente para landing pages (Páginas informativas) o Blogs.
 Serán siempre iguales para todos los usuarios.
 .
-Sitios Web Dinámicos (Aplicaciones Web): Actualizan su información con respecto a la interacción del usuario. Dependen de una base de datos, de donde extrae e ingresa información.
-Serán diferentes, dependiendo del usuario que la use.
+Sitios Web Dinámicos (Aplicaciones Web): Actualizan su información con respecto a la 
+interacción del usuario. Dependen de una base de datos, de donde extrae e ingresa 
 
+Especificidad es la manera mediante la cual los navegadores deciden qué valores de una 
+propiedad CSS son más relevantes para un elemento y, por lo tanto, serán aplicados. 
 
+OJO en Windows el terminal no es case sensitive (Sensible las mayusculas), con Linux,y
+ UNIX si son case sensitive
+
+git status: lo usamos para saber si tenemos un archivo añadido o borrado en nuestro 
+proyecto, para saber en la rama en la que estamos y si tenemos commits.
