@@ -1,6 +1,13 @@
-body 
-{
+body {
     text-align: center;
+    color: #333;
     font-family: Arial, Helvetica, sans-serif;
-    color: saddlebrown;
+}
+
+#conteiner {
+    text-align: left;
+    padding: 2rem;
+    width: 70%;
+    border: 1px solid #333;
+    
 }
