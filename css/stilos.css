@@ -33,5 +33,11 @@ body {
 }
 
 #conteiner #post {
-    padding: 2em;
+    padding: 2rem;
 }
+ #footer {
+    background-color: palevioletred;
+    color: #333;
+    padding: 0.5em;
+    text-align: center;
+ }
